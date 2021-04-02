@@ -1,0 +1,9 @@
+#+TITLE: rechelon
+
+*rechelon* is =Storm= and =Echelon: Wind Warrior= engine free reimplementation.
+
+Project aimed to be able to run original companies using original resources (being converted) and to provide game experience 
+as close to original game as possible.
+
+** Details
+How original game works is described at our [[https://github.com/pkulev/rechelon/wiki][Wiki]].
