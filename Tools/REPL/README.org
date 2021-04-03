@@ -1,0 +1,23 @@
+#+TITLE: Python2.2 REPL for Echelon: Wind Warrior
+
+This is little REPL for game internals exploration.
+
+** Installation
+   Copy =.py= files into =/Modules= directory where game is installed.
+   Add to =/Modules/Menu15/Main.py= somewhere near file's end:
+   #+begin_src python
+     import REPL
+     REPL.main()
+   #+end_src
+
+   Run python22 within =/Modules= directory and type:
+   #+begin_src python
+     import replmd
+     replmd.main()
+   #+end_src
+
+** Development
+   Please don't.
+
+   Ok, I'm joking. I developed those files inside =C:/python22/Lib/site-packages= to make them
+   available to interpreter and don't want bother improving this process for now.
