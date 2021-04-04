@@ -1,4 +1,4 @@
-#+TITLE: Python2.2 REPL for Echelon: Wind Warrior
+#+TITLE: Python2.2 REPL for Echelon: Wind Warriors
 
 This is little REPL for game internals exploration.
 
